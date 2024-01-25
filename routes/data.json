@@ -1,0 +1,184 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "genre": ["Drama"],
+    "releaseYear": 1994,
+    "ratings": 9.3,
+    "image": "https://m.media-amazon.com/images/I/815qtzaP9iL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "genre": ["Crime", "Drama"],
+    "releaseYear": 1972,
+    "ratings": 9.2,
+    "image": "https://m.media-amazon.com/images/I/71khjV-MoOS._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Inception",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "releaseYear": 2010,
+    "ratings": 8.8,
+    "image": "https://m.media-amazon.com/images/I/71DwIcSgFcS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "genre": ["Drama", "Romance"],
+    "releaseYear": 1995,
+    "ratings": 8.1,
+    "image": "https://m.media-amazon.com/images/I/51bHUukjctL._AC_UF350,350_QL50_.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": ["Action", "Crime", "Drama"],
+    "releaseYear": 2008,
+    "ratings": 9.0,
+    "image": "https://m.media-amazon.com/images/I/81YmUpKBTYL.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": ["Drama", "Romance"],
+    "releaseYear": 1994,
+    "ratings": 8.8,
+    "image": "https://m.media-amazon.com/images/I/61d1QoVA2nL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": ["Crime", "Drama"],
+    "releaseYear": 1994,
+    "ratings": 8.9,
+    "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81gsqtLZlhL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "genre": ["Action", "Sci-Fi"],
+    "releaseYear": 1999,
+    "ratings": 8.7,
+    "image": "https://m.media-amazon.com/images/I/71AS91LdxpS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Titanic",
+    "genre": ["Drama", "Romance"],
+    "releaseYear": 1997,
+    "ratings": 7.8,
+    "image": "https://m.media-amazon.com/images/I/51F-lOi11dL.jpg"
+  },
+  {
+    "title": "Schindler's List",
+    "genre": ["Biography", "Drama", "History"],
+    "releaseYear": 1993,
+    "ratings": 8.9,
+    "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "genre": ["Drama"],
+    "releaseYear": 1999,
+    "ratings": 8.8,
+    "image": "https://m.media-amazon.com/images/I/41i49moFOTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "releaseYear": 1991,
+    "ratings": 8.6,
+    "image": "https://m.media-amazon.com/images/I/81SVDO6WcrL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Goodfellas",
+    "genre": ["Biography", "Crime", "Drama"],
+    "releaseYear": 1990,
+    "ratings": 8.7,
+    "image": "https://m.media-amazon.com/images/I/41oOAInIfoS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Lion King",
+    "genre": ["Animation", "Adventure", "Drama"],
+    "releaseYear": 1994,
+    "ratings": 8.5,
+    "image": "https://m.media-amazon.com/images/I/71yFREcebvL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "genre": ["Crime", "Drama", "Fantasy"],
+    "releaseYear": 1999,
+    "ratings": 8.6,
+    "image": "https://m.media-amazon.com/images/I/71Q6YhYVSKL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Back to the Future",
+    "genre": ["Adventure", "Comedy", "Sci-Fi"],
+    "releaseYear": 1985,
+    "ratings": 8.5,
+    "image": "https://m.media-amazon.com/images/I/71MEh-s3p7L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Departed",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "releaseYear": 2006,
+    "ratings": 8.5,
+    "image": "https://m.media-amazon.com/images/I/61Pw-kf72dL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "genre": ["Action", "Adventure", "Drama"],
+    "releaseYear": 2000,
+    "ratings": 8.5,
+    "image": "https://m.media-amazon.com/images/I/81QVTiMK1wL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Shershaah",
+    "genre": ["Action", "Biography", "Drama"],
+    "releaseYear": 2021,
+    "ratings": 7.8,
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/94f844722fbb6c7b92e0cbd1a71297e949349c306c938ce7c9bc402366789313.jpg"
+  },
+  {
+    "title": "Bell Bottom",
+    "genre": ["Action", "Thriller"],
+    "releaseYear": 2021,
+    "ratings": 6.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+  },
+  {
+    "title": "Atrangi Re",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "releaseYear": 2021,
+    "ratings": 6.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Bhuj: The Pride of India",
+    "genre": ["Action", "Drama", "History"],
+    "releaseYear": 2021,
+    "ratings": 5.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BOWY0MzZkN2QtODI1MC00Nzg0LWE3YmUtNTNhMWU4YTFjOTA4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR3,0,67,98_AL_.jpg"
+  },
+  {
+    "title": "Toofaan",
+    "genre": ["Action", "Drama", "Sport"],
+    "releaseYear": 2021,
+    "ratings": 6.9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB5g1-qJ6vIVlayPMYdlBsAVn_epYbzw5HxNLVeIcthMx8jLs8Vrir0d-jyZVjrhpCcc&usqp=CAU"
+  },
+  {
+    "title": "83",
+    "genre": ["Biography", "Drama", "Sport"],
+    "releaseYear": 2021,
+    "ratings": 8.5,
+    "image": "https://m.media-amazon.com/images/I/51PrJulAcSL._UXNaN_FMjpg_QL85_.jpg"
+  },
+  {
+    "title": "Sardar Ka Grandson",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "releaseYear": 2021,
+    "ratings": 5.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZmFmNzA0MTQtYWRlMC00Njg0LTg0ZTYtNjlmMTVkMjMzZmI1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "title": "Mimi",
+    "genre": ["Comedy", "Drama"],
+    "releaseYear": 2021,
+    "ratings": 7.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BMThiOGIzNDctYWU1Zi00NTRjLWI1ZDMtM2YwOGM0ZWZkMmUyXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+  }
+]
